@@ -30,3 +30,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# ssh keys - JANGAN pernah di-commit
+.ssh/
+id_rsa
+id_ed25519
+*.key
